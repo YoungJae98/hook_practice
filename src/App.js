@@ -22,7 +22,7 @@ const App = () => {
 
 export default App;
 
-/**useState 함수
+/**useState 함수_테스트 완료
   const [item, setItem] = useState(0);
   return (
     <div>
